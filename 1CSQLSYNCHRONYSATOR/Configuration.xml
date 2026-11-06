@@ -69,7 +69,6 @@
 			<CommonModule>Ext1_СинхронизацияSQL</CommonModule>
 			<InformationRegister>Ext1_ОчередьСинхронизацииSQL</InformationRegister>
 			<ScheduledJob>Ext1_СинхронизацияSQL_ОбработкаОчереди</ScheduledJob>
-			<EventSubscription>Ext1_СинхронизацияSQL_ПриЗаписи</EventSubscription>
 			<DataProcessor>Ext1_НастройкиСинхронизацииSQL</DataProcessor>
 		</ChildObjects>
 	</Configuration>
