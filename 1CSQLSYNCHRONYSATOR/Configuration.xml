@@ -70,6 +70,16 @@
 			<InformationRegister>Ext1_ОчередьСинхронизацииSQL</InformationRegister>
 			<ScheduledJob>Ext1_СинхронизацияSQL_ОбработкаОчереди</ScheduledJob>
 			<DataProcessor>Ext1_НастройкиСинхронизацииSQL</DataProcessor>
+			<CommonModule>Ext1_OPI_MSSQL</CommonModule>
+			<CommonModule>Ext1_OPI_ЗапросыSQL</CommonModule>
+			<CommonModule>Ext1_OPI_Инструменты</CommonModule>
+			<CommonModule>Ext1_OPI_Компоненты</CommonModule>
+			<CommonModule>Ext1_OPI_ПреобразованиеТипов</CommonModule>
+			<CommonModule>Ext1_OPI_BuildHash</CommonModule>
+			<CommonModule>Ext1_OPI_ИнструментыВызовСервера</CommonModule>
+			<CommonModule>Ext1_OPI_Janx</CommonModule>
+			<CommonModule>Ext1_OPI_РасширенныйВызов</CommonModule>
+			<CommonModule>Ext1_OPI_ЗапросыHTTP</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
