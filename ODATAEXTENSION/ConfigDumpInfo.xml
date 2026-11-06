@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Configuration.Расширение1" id="01c1544c-2ff6-4c17-8c2c-e7bab99951bf" configVersion="a8cb8c153a13e5f5c51c8df49846577c07aeec75"/>
+		<Metadata name="DataProcessor.СоставОбъектовДляИнтерфейсаOData" id="b616ff74-8092-48e9-8537-187df17f4bbc" configVersion="0fd72b85db4b593fa73bdb40239c7ec6e06126f8"/>
+		<Metadata name="DataProcessor.СоставОбъектовДляИнтерфейсаOData.Form.Форма_О" id="e46156ba-9373-4c50-814a-d054395a32cf" configVersion="8c8d48eae152d0fd408d8afa8d6024a970df325d"/>
+		<Metadata name="DataProcessor.СоставОбъектовДляИнтерфейсаOData.Form.Форма_О.Form" id="e46156ba-9373-4c50-814a-d054395a32cf.0" configVersion="6ea288826a65db7c42d6e5c5ca03bde05dec7fa2"/>
+		<Metadata name="DataProcessor.СоставОбъектовДляИнтерфейсаOData.Form.Форма_У" id="9633d2ee-8f6e-4a2b-8a18-99f60a100f80" configVersion="38d40cb58b4b6896b7e3da6f68118ad8816b8cf6"/>
+		<Metadata name="DataProcessor.СоставОбъектовДляИнтерфейсаOData.Form.Форма_У.Form" id="9633d2ee-8f6e-4a2b-8a18-99f60a100f80.0" configVersion="68e6ca9e8153e20cba70486a17bf6ca616ac7da2"/>
+		<Metadata name="Language.Русский" id="4ef61578-89f0-4f05-8d09-5983bd0f8009" configVersion="55217c9f496bb3b9703470cdab7d4b216dad8e92"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="2e6573a6-e8c6-476a-a09c-d72310fe7c19" configVersion="158fa6523171596dccb29962a549037530622802"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
